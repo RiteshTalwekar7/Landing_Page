@@ -1,0 +1,23 @@
+.flex-header{
+    display: flex;
+    justify-content: space-around;
+}
+
+.logo{
+    font-weight: bold;
+    flex-grow: ;
+    text-align: center;
+}
+
+.flex-header div{
+    color: white;
+}
+
+.main-background{
+    background-color: #1F2937;
+    height: 800px;
+}
+
+.space-requirement{
+    justify-content: flex-end;
+}
